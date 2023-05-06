@@ -1,5 +1,5 @@
 ## Oie eu sou Bruno Lira, futuro Developer de Front-End e amante do Figma!
-Apaixonado por tecnologia, Livros e por a vontade de mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, Livros e por uma vontade de mudar a vida das pessoas através da programação.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Figma" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
