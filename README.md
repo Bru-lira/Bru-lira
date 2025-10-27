@@ -1,4 +1,4 @@
-## Oie eu sou Bruno Lira, futuro Developer de Front-End e amante do Figma!
+## Bbrun
 Apaixonado por tecnologia, Livros e por uma vontade de mudar a vida das pessoas através da programação.
 
 <div style="display: inline_block"><br>
